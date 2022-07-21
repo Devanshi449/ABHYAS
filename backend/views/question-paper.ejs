@@ -1,0 +1,17 @@
+<html lang="en">
+  <head> </head>
+  <body>
+    <ol>
+      <% questions.forEach(qn => { %>
+      <li>
+        <p><%= qn.questionStatement %></p>
+        <p>a) <%= qn.options[0] %></p>
+        <p>b) <%= qn.options[1] %></p>
+        <p>c) <%= qn.options[2] %></p>
+        <p>d) <%= qn.options[3] %></p>
+        <br />
+      </li>
+      <% }) %>
+    </ol>
+  </body>
+</html>

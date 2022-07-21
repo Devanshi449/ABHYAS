@@ -1,0 +1,19 @@
+{
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "clear && nodemon .",
+    "serve": "clear && node ."
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "html-pdf": "^3.0.1",
+    "http-status-codes": "^2.2.0",
+    "mongoose": "^6.2.4"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}

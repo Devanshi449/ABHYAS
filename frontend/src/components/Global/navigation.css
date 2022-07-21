@@ -1,0 +1,19 @@
+.logo {
+  font-weight: 800;
+}
+
+.myNavBar {
+  background: rgb(0, 191, 166);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 191, 166, 1) 0%,
+    rgba(0, 191, 166, 1) 5%,
+    rgba(0, 191, 166, 0) 100%
+  );
+  padding-bottom: 20px;
+}
+
+.navigationLinks>*{
+  /* font-size: 1rem; */
+  font-weight: 700;
+}

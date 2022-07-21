@@ -1,0 +1,44 @@
+.heading {
+    text-align: center;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.Dropdowns {
+    display: inline-block;
+    padding: 1rem 5rem;
+}
+
+.DropdownBar {
+    text-align: center;
+}
+
+.Menu {
+    padding: 1rem 2rem;
+    display: inline;
+}
+
+.Qsection {
+    width: 50%;
+    margin: auto;
+    margin-top: 1.5rem;
+    margin-bottom: 0;
+    padding: 1rem;
+}
+
+.optionForm {
+    display: flex;
+}
+
+.optionBox {
+    padding-right: 1rem;
+    padding-top: 0.5rem;
+}
+
+.addQbutt {
+    margin-left: 10.4rem;
+}
+
+.allContriComp {
+    margin-top: 8rem ;
+}

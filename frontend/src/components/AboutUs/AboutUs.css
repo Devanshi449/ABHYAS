@@ -1,0 +1,14 @@
+.textbtw{
+    background-color: #08d6bb;
+    height: 20rem;
+    width:40rem;
+    border-radius: 10px ;
+    margin: auto;
+    margin-top: 2rem;
+    font-family: Roboto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+    text-align: justify;
+}
