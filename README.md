@@ -16,7 +16,7 @@ A crowd sourcing model for generation of a large question bank. Volunteers can c
 ## Development Setup
 
 ```sh
-git clone https://github.com/tanishchugh01/Abhyas.git
+git clone https://github.com/Devanshi449/ABHYAS.git
 cd Abhyas/frontend
 npm i
 cd Abhyas/backend
